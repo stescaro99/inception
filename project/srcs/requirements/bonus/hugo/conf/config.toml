@@ -1,0 +1,7 @@
+theme = "m10c"
+paginate = 8
+canonifyURLs = true
+
+[params]
+  author = "Vincent Bachelet"
+  description = "Dedicated hugo service for inception project"
